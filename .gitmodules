@@ -1,0 +1,6 @@
+[submodule "ngcrud-01"]
+	path = ngcrud-01
+	url = https://github.com/jiom-0/ngcrud-01.git
+[submodule "dotnetcrud-01"]
+	path = dotnetcrud-01
+	url = https://github.com/jiom-0/dotnetcrud-01.git
